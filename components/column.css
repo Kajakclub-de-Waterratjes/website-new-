@@ -1,0 +1,199 @@
+.component1-wrapper {
+  display: contents;
+}
+ 
+.component1-container {
+  display: flex;
+  position: relative;
+}
+ 
+.component1-link {
+  align-self: flex-start;
+  margin-top: 19px;
+  text-decoration: none;
+}
+ 
+.column-fragment2 {
+  display: contents;
+}
+ 
+.column-text18 {
+  display: inline-block;
+}
+ 
+.column-fragment3 {
+  display: contents;
+}
+ 
+.column-text19 {
+  display: inline-block;
+}
+ 
+.column-fragment4 {
+  display: contents;
+}
+ 
+.column-text26 {
+  display: inline-block;
+}
+ 
+.column-fragment5 {
+  display: contents;
+}
+ 
+.column-text35 {
+  display: inline-block;
+}
+ 
+.column-fragment6 {
+  display: contents;
+}
+ 
+.column-text36 {
+  display: inline-block;
+}
+ 
+.column-fragment7 {
+  display: contents;
+}
+ 
+.column-text41 {
+  display: inline-block;
+}
+ 
+.column-fragment8 {
+  display: contents;
+}
+ 
+.column-text42 {
+  display: inline-block;
+}
+ 
+.column-fragment1 {
+  display: contents;
+}
+ 
+.column-text17 {
+  display: inline-block;
+}
+ 
+.component1root-class-name {
+  align-self: flex-start;
+}
+
+.column-column {
+  width: 1070px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.column-text10 {
+  font-family: "Arial";
+}
+ 
+.column-text11 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+ 
+.column-text12 {
+  line-height: 1.5;
+}
+ 
+.column-text13 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+ 
+.column-text14 {
+  line-height: 1.5;
+}
+ 
+.column-text15 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+ 
+.column-text16 {
+  line-height: 1.5;
+}
+ 
+.column-fragment1 {
+  display: contents;
+}
+ 
+.column-text17 {
+  display: inline-block;
+}
+ 
+.column-fragment2 {
+  display: contents;
+}
+ 
+.column-text18 {
+  display: inline-block;
+}
+ 
+.column-fragment3 {
+  display: contents;
+}
+ 
+.column-text19 {
+  display: inline-block;
+}
+ 
+.column-fragment4 {
+  display: contents;
+}
+ 
+.column-text26 {
+  display: inline-block;
+}
+ 
+.column-fragment5 {
+  display: contents;
+}
+ 
+.column-text35 {
+  display: inline-block;
+}
+ 
+.column-fragment6 {
+  display: contents;
+}
+ 
+.column-text36 {
+  display: inline-block;
+}
+ 
+.column-fragment7 {
+  display: contents;
+}
+ 
+.column-text41 {
+  display: inline-block;
+}
+ 
+.column-fragment8 {
+  display: contents;
+}
+ 
+.column-text42 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .column-column {
+    align-items: center;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .column-column {
+    align-items: center;
+    justify-content: center;
+  }
+}
